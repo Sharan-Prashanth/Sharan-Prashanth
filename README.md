@@ -1,18 +1,6 @@
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- ANIMATED BANNER                                                          -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
 ![](https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif)
 
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- ANIMATED HEADER                                                          -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:7aa2f7&height=200&section=header&text=Sharan%20Prashanth%20S&fontSize=42&fontColor=c0caf5&fontAlignY=35&animation=fadeIn&desc=Building%20the%20future%2C%20one%20commit%20at%20a%20time&descSize=16&descColor=7aa2f7&descAlignY=55" alt="header" />
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- HERO / INTRODUCTION                                                      -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -27,10 +15,6 @@
 </div>
 
 <br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- ABOUT ME                                                                 -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;About Me
 
@@ -67,14 +51,10 @@ fun_fact: "I debug with console.log and I'm not ashamed of it 🤷‍♂️"
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- SOCIALS                                                                  -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
 ## 🌐 &nbsp;Socials
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sharan-prashanth/">
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN-ID">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
@@ -84,10 +64,6 @@ fun_fact: "I debug with console.log and I'm not ashamed of it 🤷‍♂️"
 </p>
 
 <br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- TECH STACK                                                               -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 ## 💻 &nbsp;Tech Stack
 
@@ -142,10 +118,6 @@ fun_fact: "I debug with console.log and I'm not ashamed of it 🤷‍♂️"
 </table>
 
 <br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- FEATURED PROJECTS                                                        -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 ## 🚀 &nbsp;Featured Projects
 
@@ -209,10 +181,6 @@ fun_fact: "I debug with console.log and I'm not ashamed of it 🤷‍♂️"
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- GITHUB TROPHIES                                                          -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
 ## 🏆 &nbsp;GitHub Trophies
 
 <p align="center">
@@ -220,10 +188,6 @@ fun_fact: "I debug with console.log and I'm not ashamed of it 🤷‍♂️"
 </p>
 
 <br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- GITHUB STATISTICS                                                        -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 ## 📊 &nbsp;GitHub Stats
 
@@ -237,10 +201,6 @@ fun_fact: "I debug with console.log and I'm not ashamed of it 🤷‍♂️"
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- TOP CONTRIBUTED REPO                                                     -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
 ## 🔝 &nbsp;Top Contributed Repo
 
 <p align="center">
@@ -249,10 +209,6 @@ fun_fact: "I debug with console.log and I'm not ashamed of it 🤷‍♂️"
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- CONTRIBUTION ACTIVITY GRAPH                                              -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
 ## 📈 &nbsp;Contribution Activity
 
 <p align="center">
@@ -260,10 +216,6 @@ fun_fact: "I debug with console.log and I'm not ashamed of it 🤷‍♂️"
 </p>
 
 <br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- PROFILE SUMMARY CARDS                                                    -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 ## 📋 &nbsp;Profile Summary
 
@@ -289,10 +241,6 @@ fun_fact: "I debug with console.log and I'm not ashamed of it 🤷‍♂️"
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- 3D CONTRIBUTION CHART                                                    -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
 ## 🌐 &nbsp;3D Contribution Chart
 
 <p align="center">
@@ -300,10 +248,6 @@ fun_fact: "I debug with console.log and I'm not ashamed of it 🤷‍♂️"
 </p>
 
 <br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- CERTIFICATIONS                                                           -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 ## 📜 &nbsp;Certifications
 
@@ -327,10 +271,6 @@ fun_fact: "I debug with console.log and I'm not ashamed of it 🤷‍♂️"
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- CURRENTLY LEARNING                                                       -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
 ## 🌱 &nbsp;Currently Learning
 
 <p align="center">
@@ -342,10 +282,6 @@ fun_fact: "I debug with console.log and I'm not ashamed of it 🤷‍♂️"
 </p>
 
 <br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- CONTRIBUTION SNAKE                                                       -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 ## 🐍 &nbsp;Contribution Snake
 
@@ -359,10 +295,6 @@ fun_fact: "I debug with console.log and I'm not ashamed of it 🤷‍♂️"
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- RANDOM DEV QUOTE                                                         -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
 ### ✍️ Random Dev Quote
 
 <p align="center">
@@ -370,10 +302,6 @@ fun_fact: "I debug with console.log and I'm not ashamed of it 🤷‍♂️"
 </p>
 
 <br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- CONNECT WITH ME                                                          -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 ## 🤝 &nbsp;Connect With Me
 
@@ -388,9 +316,5 @@ fun_fact: "I debug with console.log and I'm not ashamed of it 🤷‍♂️"
 </p>
 
 <br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- FOOTER                                                                   -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:7aa2f7&height=120&section=footer&text=Thanks%20for%20visiting!%20⭐&fontSize=18&fontColor=7aa2f7&fontAlignY=70&animation=fadeIn" alt="footer" />
