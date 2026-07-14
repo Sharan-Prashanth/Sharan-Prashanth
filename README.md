@@ -1,9 +1,9 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:7aa2f7&height=200&section=header&text=Sharan%20Prashanth%20S&fontSize=42&fontColor=c0caf5&fontAlignY=35&animation=fadeIn&desc=Building%20the%20future%2C%20one%20commit%20at%20a%20time&descSize=16&descColor=7aa2f7&descAlignY=55" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:7aa2f7&height=200&section=header&text=Sharan%20Prashanth%20S&fontSize=42&fontColor=c0caf5&fontAlignY=35&animation=fadeIn&desc=Learning%20every%20day.%20Building%20every%20week.%20Improving%20always.&descSize=16&descColor=7aa2f7&descAlignY=55" alt="header" />
 
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Software+Engineering+Intern;Full+Stack+Developer;AWS+Cloud+Enthusiast;Backend+Architecture+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Software+Engineering;Full+Stack+Developer;Cloud+Enthusiast;Backend+Architecture+Explorer" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -22,9 +22,9 @@ Passionate about building scalable backend systems, cloud-native applications, a
 
 ```yaml
 name: Sharan Prashanth S
-role: Software Engineering Intern
-education: Computer Science Engineering Student
-location: India
+role: Software Developer
+education: Computer Science and Engineering 
+location: India, Tamil Nadu, Chennai. 
 
 interests:
   - Backend Development
@@ -182,7 +182,7 @@ fun_fact: "I debug with console.log and I'm not ashamed of it 🤷‍♂️"
 ## 🏆 &nbsp;GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sharan-Prashanth&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
+  <img src="https://github-trophies.vercel.app/?username=Sharan-Prashanth&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
 </p>
 
 <br/>
@@ -190,22 +190,16 @@ fun_fact: "I debug with console.log and I'm not ashamed of it 🤷‍♂️"
 ## 📊 &nbsp;GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sharan-Prashanth&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&icon_color=7aa2f7&text_color=c0caf5&show_icons=true&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-lake-beta.vercel.app/api?username=Sharan-Prashanth&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&icon_color=7aa2f7&text_color=c0caf5&show_icons=true&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats" />
   <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Sharan-Prashanth&theme=tokyonight&hide_border=true&background=0d1117&ring=7aa2f7&fire=ff9e64&currStreakLabel=7aa2f7" height="180" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Sharan-Prashanth&theme=tokyonight&hide_border=true&background=0d1117&ring=7aa2f7&fire=ff9e64&currStreakLabel=7aa2f7" height="180" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sharan-Prashanth&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&text_color=c0caf5&include_all_commits=true&count_private=true&langs_count=8" height="180" alt="Top Languages" />
+  <img src="https://github-readme-stats-ten-psi.vercel.app/api/top-langs/?username=Sharan-Prashanth&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&text_color=c0caf5&include_all_commits=true&count_private=true&langs_count=8" height="180" alt="Top Languages" />
 </div>
 
 <br/>
 
-## 🔝 &nbsp;Top Contributed Repo
 
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Sharan-Prashanth&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" alt="Top Contributed Repo" />
-</p>
-
-<br/>
 
 ## 📈 &nbsp;Contribution Activity
 
@@ -237,15 +231,7 @@ fun_fact: "I debug with console.log and I'm not ashamed of it 🤷‍♂️"
   </table>
 </div>
 
-<br/>
 
-## 🌐 &nbsp;3D Contribution Chart
-
-<p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Chart" />
-</p>
-
-<br/>
 
 ## 📜 &nbsp;Certifications
 
