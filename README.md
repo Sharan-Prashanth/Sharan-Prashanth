@@ -74,7 +74,7 @@ fun_fact: "I debug with console.log and I'm not ashamed of it 🤷‍♂️"
 ## 🌐 &nbsp;Socials
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-ID">
+  <a href="https://www.linkedin.com/in/sharan-prashanth/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
