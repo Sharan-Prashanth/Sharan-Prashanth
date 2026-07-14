@@ -1,5 +1,3 @@
-![](https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif)
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:7aa2f7&height=200&section=header&text=Sharan%20Prashanth%20S&fontSize=42&fontColor=c0caf5&fontAlignY=35&animation=fadeIn&desc=Building%20the%20future%2C%20one%20commit%20at%20a%20time&descSize=16&descColor=7aa2f7&descAlignY=55" alt="header" />
 
 <div align="center">
