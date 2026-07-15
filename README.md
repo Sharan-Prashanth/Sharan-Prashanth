@@ -177,15 +177,7 @@ fun_fact: "I debug with console.log and I am not ashamed of it"
   </tr>
 </table>
 
-<br/>
 
-## GitHub Trophies
-
-<p align="center">
-  <img src="https://github-trophies.vercel.app/?username=Sharan-Prashanth&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
-</p>
-
-<br/>
 
 ## GitHub Stats
 
