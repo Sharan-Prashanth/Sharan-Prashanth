@@ -291,4 +291,6 @@ fun_fact: "I debug with console.log and I am not ashamed of it"
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:7aa2f7&height=120&section=footer&text=Thanks%20for%20visiting&fontSize=18&fontColor=7aa2f7&fontAlignY=70&animation=fadeIn" alt="footer" />
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:7aa2f7&height=140&section=footer&text=%3Aw%20Thanks%20for%20visiting.&fontSize=22&fontColor=c0caf5&fontAlignY=55&animation=fadeIn&desc=%3Aq&descSize=14&descColor=7aa2f7&descAlignY=75" alt="footer" />
