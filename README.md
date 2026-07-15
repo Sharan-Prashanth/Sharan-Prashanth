@@ -16,9 +16,16 @@
 
 ## About Me
 
+<p align="center">
+  <a href="./ascii-banner.txt">
+    <img src="https://img.shields.io/badge/View%20ASCII%20Banner-%230d1117?style=for-the-badge&logo=gnubash&logoColor=7aa2f7" alt="View ASCII Banner" />
+  </a>
+</p>
+
 <p>
 Passionate about building scalable backend systems, cloud-native applications, and real-time software. I enjoy solving complex engineering problems, learning distributed systems, and continuously improving my software development skills.
 </p>
+
 
 ```yaml
 name: Sharan Prashanth S
@@ -280,7 +287,7 @@ fun_fact: "I debug with console.log and I am not ashamed of it"
 ## Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-ID">
+  <a href="https://linkedin.com/in/sharan-prashanth">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
