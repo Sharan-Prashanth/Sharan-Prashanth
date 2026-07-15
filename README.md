@@ -14,7 +14,7 @@
 
 <br/>
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;About Me
+## About Me
 
 <p>
 Passionate about building scalable backend systems, cloud-native applications, and real-time software. I enjoy solving complex engineering problems, learning distributed systems, and continuously improving my software development skills.
@@ -23,8 +23,8 @@ Passionate about building scalable backend systems, cloud-native applications, a
 ```yaml
 name: Sharan Prashanth S
 role: Software Developer
-education: Computer Science and Engineering 
-location: India, Tamil Nadu, Chennai. 
+education: Computer Science and Engineering
+location: India, Tamil Nadu, Chennai
 
 interests:
   - Backend Development
@@ -44,12 +44,12 @@ tools_i_love:
   - Node.js & Express
   - React & Next.js
 
-fun_fact: "I debug with console.log and I'm not ashamed of it 🤷‍♂️"
+fun_fact: "I debug with console.log and I am not ashamed of it"
 ```
 
 <br/>
 
-## 🌐 &nbsp;Socials
+## Socials
 
 <p align="center">
   <a href="https://linkedin.com/in/YOUR-LINKEDIN-ID">
@@ -63,7 +63,7 @@ fun_fact: "I debug with console.log and I'm not ashamed of it 🤷‍♂️"
 
 <br/>
 
-## 💻 &nbsp;Tech Stack
+## Tech Stack
 
 <table>
   <tr>
@@ -117,12 +117,12 @@ fun_fact: "I debug with console.log and I'm not ashamed of it 🤷‍♂️"
 
 <br/>
 
-## 🚀 &nbsp;Featured Projects
+## Featured Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">📹 WebRTC Video Calling App</h3>
+      <h3 align="center">WebRTC Video Calling App</h3>
       <p align="center">
         Real-time peer-to-peer video calling application with secure signaling and NAT traversal.
       </p>
@@ -139,7 +139,7 @@ fun_fact: "I debug with console.log and I'm not ashamed of it 🤷‍♂️"
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🤖 PRISM</h3>
+      <h3 align="center">PRISM</h3>
       <p align="center">
         AI-powered proposal review platform developed for Smart India Hackathon that streamlines research proposal evaluation.
       </p>
@@ -158,7 +158,7 @@ fun_fact: "I debug with console.log and I'm not ashamed of it 🤷‍♂️"
   </tr>
   <tr>
     <td width="50%" valign="top" colspan="2">
-      <h3 align="center">🏏 BoundaryBytes</h3>
+      <h3 align="center">BoundaryBytes</h3>
       <p align="center">
         Real-time cricket score tracking platform with live match updates powered by WebSockets.
       </p>
@@ -179,7 +179,7 @@ fun_fact: "I debug with console.log and I'm not ashamed of it 🤷‍♂️"
 
 <br/>
 
-## 🏆 &nbsp;GitHub Trophies
+## GitHub Trophies
 
 <p align="center">
   <img src="https://github-trophies.vercel.app/?username=Sharan-Prashanth&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
@@ -187,7 +187,7 @@ fun_fact: "I debug with console.log and I'm not ashamed of it 🤷‍♂️"
 
 <br/>
 
-## 📊 &nbsp;GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats-lake-beta.vercel.app/api?username=Sharan-Prashanth&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&icon_color=7aa2f7&text_color=c0caf5&show_icons=true&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats" />
@@ -199,9 +199,7 @@ fun_fact: "I debug with console.log and I'm not ashamed of it 🤷‍♂️"
 
 <br/>
 
-
-
-## 📈 &nbsp;Contribution Activity
+## Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sharan-Prashanth&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=7aa2f7&line=7aa2f7&point=ff9e64&area=true&area_color=7aa2f7" alt="Activity Graph" />
@@ -209,7 +207,7 @@ fun_fact: "I debug with console.log and I'm not ashamed of it 🤷‍♂️"
 
 <br/>
 
-## 📋 &nbsp;Profile Summary
+## Profile Summary
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sharan-Prashanth&theme=tokyonight" alt="Profile Details" />
@@ -231,23 +229,23 @@ fun_fact: "I debug with console.log and I'm not ashamed of it 🤷‍♂️"
   </table>
 </div>
 
+<br/>
 
-
-## 📜 &nbsp;Certifications
+## Certifications
 
 <table>
   <tr>
-    <td>✅</td>
+    <td>Completed</td>
     <td><strong>Cisco Cybersecurity Essentials</strong></td>
     <td><img src="https://img.shields.io/badge/Cisco-049FD9?style=flat-square&logo=cisco&logoColor=white" /></td>
   </tr>
   <tr>
-    <td>✅</td>
+    <td>Completed</td>
     <td><strong>Python for AI, Data Science and Development</strong></td>
     <td><img src="https://img.shields.io/badge/IBM-052FAD?style=flat-square&logo=ibm&logoColor=white" /></td>
   </tr>
   <tr>
-    <td>🔄</td>
+    <td>In Progress</td>
     <td><strong>AWS Solutions Architect Associate</strong></td>
     <td><img src="https://img.shields.io/badge/In%20Progress-ff9e64?style=flat-square&logo=amazonaws&logoColor=white" /></td>
   </tr>
@@ -255,7 +253,7 @@ fun_fact: "I debug with console.log and I'm not ashamed of it 🤷‍♂️"
 
 <br/>
 
-## 🌱 &nbsp;Currently Learning
+## Currently Learning
 
 <p align="center">
   <img src="https://img.shields.io/badge/AWS%20Solutions%20Architect-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
@@ -267,7 +265,7 @@ fun_fact: "I debug with console.log and I'm not ashamed of it 🤷‍♂️"
 
 <br/>
 
-## 🐍 &nbsp;Contribution Snake
+## Contribution Snake
 
 <p align="center">
   <picture>
@@ -279,7 +277,7 @@ fun_fact: "I debug with console.log and I'm not ashamed of it 🤷‍♂️"
 
 <br/>
 
-### ✍️ Random Dev Quote
+## Random Dev Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
@@ -287,7 +285,7 @@ fun_fact: "I debug with console.log and I'm not ashamed of it 🤷‍♂️"
 
 <br/>
 
-## 🤝 &nbsp;Connect With Me
+## Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/YOUR-LINKEDIN-ID">
@@ -301,4 +299,4 @@ fun_fact: "I debug with console.log and I'm not ashamed of it 🤷‍♂️"
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:7aa2f7&height=120&section=footer&text=Thanks%20for%20visiting!%20⭐&fontSize=18&fontColor=7aa2f7&fontAlignY=70&animation=fadeIn" alt="footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:7aa2f7&height=120&section=footer&text=Thanks%20for%20visiting&fontSize=18&fontColor=7aa2f7&fontAlignY=70&animation=fadeIn" alt="footer" />
