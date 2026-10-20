@@ -55,19 +55,6 @@ fun_fact: "I debug with console.log and I am not ashamed of it"
 
 <br/>
 
-## Socials
-
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-ID">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="mailto:sharanprashanth24sp@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
-<br/>
 ## Contribution Snake
 
 <p align="center">
